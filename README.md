@@ -4,7 +4,9 @@
 
 This repository contains the source code, hardware designs, and 3D enclosure models for the graduation project "Design and Implementation of Encryption-Supported Vehicle Keyless Entry Systems," submitted to Izmir Democracy University, Faculty of Engineering, Department of Electrical and Electronics Engineering in 2025.
 
-**Authors:** Ata GÜNEŞ and Esra CESUR
+**Authors:** 
+- Ata Güneş: [GitHub](https://github.com/AtaGn) 
+- Esra Cesur: [GitHub](https://github.com/esracesur4)
 
 ## Project Overview
 
